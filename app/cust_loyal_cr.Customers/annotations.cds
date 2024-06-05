@@ -1,0 +1,1 @@
+using cust_loyal_crSrv as service from '../../srv/service';
